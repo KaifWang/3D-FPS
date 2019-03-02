@@ -114,7 +114,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 498}
   m_MaxSize: {x: 14002, y: 14048}
   vertical: 0
-  controlID: 10
+  controlID: 108
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -381,9 +381,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: f80b0000
       m_LastClickedID: 0
-      m_ExpandedIDs: 
+      m_ExpandedIDs: d4fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -433,14 +433,14 @@ MonoBehaviour:
     height: 423
   m_PersistentViewDataDictionary: {fileID: 0}
   m_WindowGUID: 17fd8f532ba86f648b42245b3a40321a
-  m_SceneLighting: 0
+  m_SceneLighting: 1
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 1, z: 0}
+    m_Target: {x: -6.7836723, y: -3.2926826, z: -1.2310677}
     speed: 2
-    m_Value: {x: 0, y: 1, z: 0}
+    m_Value: {x: -6.7836723, y: -3.2926826, z: -1.2310677}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -468,13 +468,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.0018599057, y: 0.9218978, z: -0.3874034, w: 0.00442135}
+    m_Target: {x: -0.034062434, y: 0.95884997, z: -0.24966145, w: -0.13082696}
     speed: 2
-    m_Value: {x: 0.0018599057, y: 0.9218978, z: -0.3874034, w: 0.00442135}
+    m_Value: {x: -0.034062434, y: 0.95884997, z: -0.24966145, w: -0.13082696}
   m_Size:
-    m_Target: 11.968629
+    m_Target: 64.69996
     speed: 2
-    m_Value: 11.968629
+    m_Value: 64.69996
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -550,20 +550,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Packages/com.unity.ads
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Packages/com.unity.ads
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Case\Spring 2019\Game Design\ch03\ch03
+  m_LastProjectPath: C:\Case\Spring 2019\Game Design\3D-FPS\ch03
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 8c090000
-    m_LastClickedID: 2444
-    m_ExpandedIDs: 000000008c0900009a0c0000ac2b0000ae2b000000ca9a3b
+    m_SelectedIDs: 220b0000
+    m_LastClickedID: 2850
+    m_ExpandedIDs: 000000008c0900009a0c0000ac2b0000ae2b000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -618,7 +618,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 00000000523d0000762f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
